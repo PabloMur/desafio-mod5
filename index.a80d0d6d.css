@@ -1,0 +1,2 @@
+*{box-sizing:border-box;font-family:Odibee Sans,cursive}body{margin:0;overflow:hidden;padding:0}#root{align-items:center;background:#fff;background-image:url(fondo.ce34a77a.svg);flex-direction:column;height:100vh;justify-content:space-around;padding:15px}#root,.containerManos{display:flex;width:100%}.containerManos{align-items:flex-end;animation:showUp .7s linear;height:40vh;justify-content:center;transform:translateY(0)}@keyframes showUp{0%{opacity:0;transform:translateY(100%)}to{opacity:1;transform:translateY(0)}}
+/*# sourceMappingURL=index.a80d0d6d.css.map */
