@@ -6,11 +6,14 @@
   "license": "MIT",
   "scripts": {
     "dev": "parcel serve ./src/index.html",
-    "build": "parcel build ./src/index.html --dist-dir build --public-url /desafio-mod5/",
+    "build": "parcel build ./src/index.html --dist-dir build --public-url /desafio-m5",
     "deploy": "gh-pages -d build"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.3.1"
   },
   "dependencies": {
     "gh-pages": "^3.2.3",
-    "parcel": "^2.0.0-rc.0"
+    "parcel": "^2.0.0-beta.3.1"
   }
 }
