@@ -1,7 +1,6 @@
 import { state } from "../../state";
 export function initPageComparition(params) {
   const result = state.getState();
-  console.log(result);
 
   const div = document.createElement("div");
   div.innerHTML = `
