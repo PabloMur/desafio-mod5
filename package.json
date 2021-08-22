@@ -9,9 +9,6 @@
     "build": "parcel build ./src/index.html --dist-dir build --public-url /desafio-mod5/",
     "deploy": "gh-pages -d build"
   },
-  "devDependencies": {
-    "parcel": "^2.0.0-rc.0"
-  },
   "dependencies": {
     "gh-pages": "^3.2.3",
     "parcel": "^2.0.0-rc.0"
