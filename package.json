@@ -1,7 +1,7 @@
 {
-  "name": "desafio-m5",
+  "name": "desafio-mod5",
   "version": "1.0.0",
-  "repository": "git@github.com:PabloMur/desafio-m5.git",
+  "repository": "git@github.com:PabloMur/desafio-mod5.git",
   "author": "Pablo Murillo <pablomurillo.sp@gmail.com>",
   "license": "MIT",
   "scripts": {
@@ -10,10 +10,10 @@
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
-    "parcel": "^2.0.0-rc.0"
+    "parcel": "^2.0.0-beta.3.1"
   },
   "dependencies": {
     "gh-pages": "^3.2.3",
-    "parcel": "^2.0.0-rc.0"
+    "parcel": "^2.0.0-beta.3.1"
   }
 }
